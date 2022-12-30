@@ -1,0 +1,15 @@
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\bin\Debug\net6.0\VehicleSalesStore.exe
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\bin\Debug\net6.0\VehicleSalesStore.deps.json
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\bin\Debug\net6.0\VehicleSalesStore.runtimeconfig.json
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\bin\Debug\net6.0\VehicleSalesStore.dll
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\bin\Debug\net6.0\VehicleSalesStore.pdb
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\obj\Debug\net6.0\VehicleSalesStore.csproj.AssemblyReference.cache
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\obj\Debug\net6.0\VehicleSalesStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\obj\Debug\net6.0\VehicleSalesStore.AssemblyInfoInputs.cache
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\obj\Debug\net6.0\VehicleSalesStore.AssemblyInfo.cs
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\obj\Debug\net6.0\VehicleSalesStore.csproj.CoreCompileInputs.cache
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\obj\Debug\net6.0\VehicleSalesStore.dll
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\obj\Debug\net6.0\refint\VehicleSalesStore.dll
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\obj\Debug\net6.0\VehicleSalesStore.pdb
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\obj\Debug\net6.0\VehicleSalesStore.genruntimeconfig.cache
+C:\Users\Mous00\source\repos\VehicleSalesStore\VehicleSalesStore\obj\Debug\net6.0\ref\VehicleSalesStore.dll
