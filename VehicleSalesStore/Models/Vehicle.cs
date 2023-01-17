@@ -13,7 +13,7 @@ namespace VehicleSalesStore.Models
 
         public string year { get; set; }
 
-        public string price { get; set; }
+        public int price { get; set; }
 
     }
 }

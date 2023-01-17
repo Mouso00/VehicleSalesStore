@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mous00\\source\\repos\\VehicleSalesStore\\VehicleSalesStore\\VehicleSalesStore.csproj": {}
+    "C:\\Users\\30697\\source\\repos\\VehicleSalesStore\\VehicleSalesStore\\VehicleSalesStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mous00\\source\\repos\\VehicleSalesStore\\VehicleSalesStore\\VehicleSalesStore.csproj": {
+    "C:\\Users\\30697\\source\\repos\\VehicleSalesStore\\VehicleSalesStore\\VehicleSalesStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mous00\\source\\repos\\VehicleSalesStore\\VehicleSalesStore\\VehicleSalesStore.csproj",
+        "projectUniqueName": "C:\\Users\\30697\\source\\repos\\VehicleSalesStore\\VehicleSalesStore\\VehicleSalesStore.csproj",
         "projectName": "VehicleSalesStore",
-        "projectPath": "C:\\Users\\Mous00\\source\\repos\\VehicleSalesStore\\VehicleSalesStore\\VehicleSalesStore.csproj",
-        "packagesPath": "C:\\Users\\Mous00\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mous00\\source\\repos\\VehicleSalesStore\\VehicleSalesStore\\obj\\",
+        "projectPath": "C:\\Users\\30697\\source\\repos\\VehicleSalesStore\\VehicleSalesStore\\VehicleSalesStore.csproj",
+        "packagesPath": "C:\\Users\\30697\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\30697\\source\\repos\\VehicleSalesStore\\VehicleSalesStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mous00\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\30697\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace VehicleSalesStore.Models
 {
-    class Bike : Vehicle
+    class Bike : Vehicle     
     {
+        public int speed;
+
     }
 }
